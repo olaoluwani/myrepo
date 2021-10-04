@@ -11,7 +11,7 @@ pipeline {
 pipeline {
     agent any 
     stages {
-        stage('test) {
+        stage('test') {
             steps {
                 sh " pwd "
             }
