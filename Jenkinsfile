@@ -13,7 +13,7 @@ pipeline {
     stages {
         stage('test') {
             steps {
-                sh " pwd "
+                sh " echo the lord is good "
             }
         }
     }
