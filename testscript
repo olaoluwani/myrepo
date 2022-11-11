@@ -3,3 +3,4 @@ clear
 # this is a para script
 sum=$(($NUMBER1+$NUMBER2))
 echo "the sum is $sum"
+echo "hello world"
